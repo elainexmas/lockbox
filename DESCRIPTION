@@ -16,7 +16,7 @@ LazyData: true
 Imports:
     yaml,
     digest,
-    testthatsomemore,
+    testthatsomemore (>= 0.2.4),
     devtools,
     utils
 Suggests:
